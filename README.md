@@ -7,5 +7,4 @@
 - Trabajo en equipo
 - Trabajar bajo presión
 
-**Social**
-![](https://img.shields.io/reddit/user-karma/combined/tecvia3D?style=social!)![](https://img.shields.io/github/followers/LisandroHdz?style=social)![](https://img.shields.io/discord/794055867653816340)
+
